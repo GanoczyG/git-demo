@@ -7,4 +7,12 @@ Form the lines
 Shield by shield
 Side by side
 We're marching into destiny
-----------------------------
+<<<<<<< HEAD
+-------------------------------------
+=======
+
+March as one
+Don't look back
+Oden's sons
+Attack!
+>>>>>>> 964e19768ff7032e6c7c0eb0d9805d34535be37a
